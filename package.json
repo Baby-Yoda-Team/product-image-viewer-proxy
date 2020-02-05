@@ -1,0 +1,29 @@
+{
+  "name": "product-image-viewer-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server/index.js",
+    "start:dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baby-Yoda-Team/product-image-viewer-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baby-Yoda-Team/product-image-viewer-proxy/issues"
+  },
+  "homepage": "https://github.com/Baby-Yoda-Team/product-image-viewer-proxy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2",
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
