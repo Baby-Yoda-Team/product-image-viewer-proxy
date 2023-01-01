@@ -20,8 +20,8 @@
   "homepage": "https://github.com/Baby-Yoda-Team/product-image-viewer-proxy#readme",
   "devDependencies": {
     "nodemon": "^2.0.2",
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "express": "^4.17.1"
